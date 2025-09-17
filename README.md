@@ -1,4 +1,4 @@
-# Open Workhorse Models
+# Awesome Open Workhorse Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
