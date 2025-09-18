@@ -1,8 +1,10 @@
-# Awesome Open Specialized Models
+# Awesome Open Workhorse Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Purpose-built, **open-weight** small language (and multimodal) models that enterprises actually use for **one** thing—and do it extremely well. No general-purpose LLMs, no pre-2025 releases.
+A workhorse model is a model that is deeply specialized.
+
+This is a list of purpose-built, **open-weight** small language (and multimodal) models that enterprises actually use for **one** thing—and do it extremely well. General-purpose models and models released before 2025 are not allowed.
 
 > As enterprises productionize AI, narrowly focused SLMs often beat general models on **accuracy, latency, cost, and control** for a given task (extraction, safety, coding agents, search). This list highlights those specialists with real-world traction and open weights.
 
