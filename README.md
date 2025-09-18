@@ -1,4 +1,4 @@
-# Awesome Open Workhorse Models
+# Awesome Open Specialized Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -15,7 +15,7 @@ Purpose-built, **open-weight** small language (and multimodal) models that enter
 
 🚧 Missed something enterprise-grade? Open a PR! 🚧
 
-## Open Workhorse Models Index
+## Open Specialized Models Index
 
 Taking notes on the specialized language models that actually have companies publicly using them. Only including models with concrete adoption evidence, not just platform listings. Focused on real enterprise deployments.
 
